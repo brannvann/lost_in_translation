@@ -1,1 +1,1 @@
-# lost_in_translation
+# карусель перевода
